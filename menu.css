@@ -1,0 +1,37 @@
+body {
+    background-color: #291f1e;
+    background-image: none;
+    display: block;
+    text-align: center;
+}
+
+ul.soups, ul.mains, ul.noodles, ul.extras, ul.sweets {
+    list-style-type: none;
+    padding-bottom: 15px;
+    padding-top: 5px;
+    font-weight: 100;
+}
+
+main {
+    padding-top: 5px;
+    padding-bottom: 90px;
+}
+
+.menu-title {
+    font-size: 50px;
+    color:  #ee5651;
+}
+
+.menu-left{
+    padding-right: 20px;
+}
+
+.soups-title, .mains-title, .noodles-title, .extras-title, .sweets-title {
+    color: rgb(233, 155, 135);
+    font-size: 30px;
+}
+
+ul {
+    color: rgb(250, 224, 217);
+    line-height: 35px;
+}
